@@ -1,16 +1,14 @@
 # peliclas
+## 
 
-A new Flutter project.
+Una aplicacion de peliculas donde puedes ver informacion sobres los nuevos estrenos de cartelera en el mundo del cine.
 
-## Getting Started
+<img align="center" width="350" src="assets/imagenes/2.jpeg" hspace="50"  ><img align="center" width="350" src="assets/imagenes/2.jpeg" hspace="50">
+<img align="center" width="350" src="assets/imagenes/1.jpeg" hspace="50"  ><img align="center" width="350" src="assets/imagenes/1.jpeg" hspace="50">
+<img align="center" width="350" src="assets/imagenes/3.jpeg" hspace="50"  ><img align="center" width="350" src="assets/imagenes/3.jpeg" hspace="50">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
